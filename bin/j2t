@@ -1,0 +1,2 @@
+from j2t import main
+main.main()
